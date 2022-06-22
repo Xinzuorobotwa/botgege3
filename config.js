@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
+global.owner = ['6281391337455','6289501136170','6281391337455']
+global.pemilik = ['6281391337455']
+global.premium = ['6281391337455']
+global.pengguna = 'DenzzLuxxury'
+global.botnma = 'Xinzuo  Bot'
 global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
-global.ganti2 = 'Github'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
-global.author = 'WhatsApp Bot'
+global.web = 'Gelud?' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://men.com' //Ubah Jga Bebas Sama lu 
+global.ganti = 'Saldo Dana Gratis' //Edit Terserah Lu Mau Apa
+global.ganti2 = 'Klik aja gpp'
+global.ownernma = 'Denzz
+global.packname = 'Xinzuo Bot'
+global.author = 'Bot By Den$$'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
